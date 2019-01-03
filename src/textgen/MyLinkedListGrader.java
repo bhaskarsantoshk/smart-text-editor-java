@@ -7,7 +7,6 @@ import java.io.UnsupportedEncodingException;
 public class MyLinkedListGrader {
 	
 	PrintWriter out;
-	
 	public String printListForwards(MyLinkedList<Integer> lst)
 	{
 		LLNode<Integer> curr;
