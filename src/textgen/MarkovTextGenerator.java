@@ -5,6 +5,7 @@ package textgen;
  *  @author UC San Diego Intermediate Programming MOOC team
  *  
  */
+ 
 public interface MarkovTextGenerator {
 	
 	/** Train the generator by adding the sourceText */
