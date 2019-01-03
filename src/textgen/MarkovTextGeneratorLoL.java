@@ -4,7 +4,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Random;
-
 /** 
  * An implementation of the MTG interface that uses a list of lists.
  * @author UC San Diego Intermediate Programming MOOC team 
@@ -110,7 +109,6 @@ public class MarkovTextGeneratorLoL implements MarkovTextGenerator {
 		System.out.println(gen);
 		System.out.println(gen.generateText(20));
 	}
-
 }
 
 /** Links a word to the next words in the list 
