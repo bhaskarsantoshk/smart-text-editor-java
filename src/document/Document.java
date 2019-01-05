@@ -10,6 +10,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public abstract class Document {
+	
 
 	private String text;
 	/** Create a new document from the given text.
